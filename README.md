@@ -1,3 +1,6 @@
+LIVE : https://samiksha-sorting-visualizer.netlify.app/
+
+
 SORTING VISUALIZER
 
 •	Built using HTML , CSS , JAVASCRIPT
