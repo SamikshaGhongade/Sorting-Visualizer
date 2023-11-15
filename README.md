@@ -1,4 +1,4 @@
-LIVE : https://samiksha-sorting-visualizer.netlify.app/
+LIVE :sorting1-visualizer.netlify.app
 
 
 SORTING VISUALIZER
