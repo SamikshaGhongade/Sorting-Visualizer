@@ -1,4 +1,4 @@
-LIVE :sorting1-visualizer.netlify.app
+LIVE :  https://sorting1-visualizer.netlify.app/
 
 
 SORTING VISUALIZER
